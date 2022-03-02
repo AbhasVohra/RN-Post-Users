@@ -1,0 +1,6 @@
+module Pods_PostApp_PostAppTests {
+  umbrella header "Pods-PostApp-PostAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
