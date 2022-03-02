@@ -13,7 +13,7 @@ This is a React Native project that focuses on listing Posts / Users / Adding th
 * [React-Native-Hooks](https://react-hooks.org/)
 
 ## Screent Shots
-<p align="center" width="100%"><img src="./screenshots/PostScreenWithoutPrivateUser.png.png" width =320><img src="./screenshots/PostDetails.png" width =320></p>
+<p align="center" width="100%"><img src="./screenshots/PostScreenWithoutPrivateUser.png" width =320><img src="./screenshots/PostDetails.png" width =320></p>
 <p align="center" width="100%"><img src="./screenshots/UserList.png" width =320><img src="./screenshots/UserListWithPrivateUser.png" width =320><img src="./screenshots/PrivateUser.png" width =320></p>
 
 ## Connect Me
